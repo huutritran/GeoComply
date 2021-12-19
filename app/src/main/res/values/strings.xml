@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GeoComply</string>
+    <string name="process_input">Process Input</string>
+    <string name="error_user_input_blank">User comment should not be empty</string>
+    <string name="user_comment">User comment</string>
+</resources>
